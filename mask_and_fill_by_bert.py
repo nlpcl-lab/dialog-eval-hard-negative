@@ -283,5 +283,5 @@ def make_negative(threshold: float = 0.5):
 
 if __name__ == "__main__":
     set_random_seed(42)
-    # make_score_file()
+    make_score_file()
     make_negative()
